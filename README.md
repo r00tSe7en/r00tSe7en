@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 💬 中国保安队，扛起枪来就是兵，我透！
-
 <a href="https://github.com/r00tSe7en/get_AV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=get_AV" />
 </a>
