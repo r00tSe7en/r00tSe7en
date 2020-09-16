@@ -2,10 +2,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=get_AV" />
 </a>
 
-<a href="https://github.com/r00tSe7en/Fake-flash.cn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=Fake-flash.cn" />
-</a>
-
 <a href="https://github.com/r00tSe7en/Flash-Pop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=Flash-Pop" />
 </a>
