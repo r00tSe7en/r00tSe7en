@@ -6,7 +6,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=r00tSe7en&theme=dark&show_icons=true&hide=contribs,prs&cache_seconds=86400" />
 </a>
 
-
+<a href="https://github.com/r00tSe7en/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tSe7en&theme=dark" />
+</a>
 
 <a href="https://github.com/r00tSe7en/r00tSe7en.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=r00tSe7en.github.io" />
@@ -16,6 +18,25 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=get_AV" />
 </a>
 
+<a href="https://github.com/r00tSe7en/Fake-flash.cn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=Fake-flash.cn" />
+</a>
+
+<a href="https://github.com/r00tSe7en/Flash-Pop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=Flash-Pop" />
+</a>
+
+<a href="https://github.com/r00tSe7en/GoogleHackingTool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=GoogleHackingTool" />
+</a>
+
+<a href="https://github.com/r00tSe7en/PWDfuzzer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=PWDfuzzer" />
+</a>
+
+<a href="https://github.com/r00tSe7en/ShellBruter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=ShellBruter" />
+</a>
 <!--
 **r00tSe7en/r00tSe7en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
