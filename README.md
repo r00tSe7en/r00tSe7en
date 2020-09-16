@@ -2,6 +2,8 @@
 
 - 💬 中国保安队，扛起枪来就是兵，我透！
 
+![Se7en's github stats](https://github-readme-stats.vercel.app/api?username=r00tSe7en&theme=dark&show_icons=true)
+
 <!--
 **r00tSe7en/r00tSe7en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
