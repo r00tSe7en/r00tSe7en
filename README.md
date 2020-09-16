@@ -1,29 +1,29 @@
 - 💬 中国保安队，扛起枪来就是兵，我透！
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=r00tSe7en&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=r00tSe7en&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)
 
 <a href="https://github.com/r00tSe7en/get_AV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=get_AV" />
-</a>
-
-<a href="https://github.com/r00tSe7en/Flash-Pop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=Flash-Pop" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=get_AV" />
 </a>
 
 <a href="https://github.com/r00tSe7en/GoogleHackingTool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=GoogleHackingTool" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=GoogleHackingTool" />
+</a>
+
+<a href="https://github.com/r00tSe7en/Fake-flash.cn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=Fake-flash.cn" />
+</a>
+
+<a href="https://github.com/r00tSe7en/Flash-Pop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=Flash-Pop" />
 </a>
 
 <a href="https://github.com/r00tSe7en/PWDfuzzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=PWDfuzzer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=PWDfuzzer" />
 </a>
 
 <a href="https://github.com/r00tSe7en/ShellBruter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=ShellBruter" />
-</a>
-
-<a href="https://github.com/r00tSe7en/Windows-via-C-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=Windows-via-C-" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=ShellBruter" />
 </a>
 
 <!--
