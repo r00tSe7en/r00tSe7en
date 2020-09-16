@@ -4,11 +4,12 @@
 
 ![Se7en's github stats](https://github-readme-stats.vercel.app/api?username=r00tSe7en&theme=dark&show_icons=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/r00tSe7en/r00tSe7en.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=r00tSe7en.github.io" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+
+<a href="https://github.com/r00tSe7en/get_AV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=get_AV" />
 </a>
 
 <!--
