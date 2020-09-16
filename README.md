@@ -2,7 +2,11 @@
 
 - 💬 中国保安队，扛起枪来就是兵，我透！
 
-![Se7en's github stats](https://github-readme-stats.vercel.app/api?username=r00tSe7en&theme=dark&show_icons=true)
+<a href="https://github.com/r00tSe7en/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=r00tSe7en&theme=dark&show_icons=true&hide=contribs,prs&cache_seconds=86400" />
+</a>
+
+
 
 <a href="https://github.com/r00tSe7en/r00tSe7en.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=r00tSe7en.github.io" />
