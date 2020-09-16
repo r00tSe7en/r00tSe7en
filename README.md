@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <a href="https://github.com/r00tSe7en/get_AV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dark&repo=get_AV" />
 </a>
