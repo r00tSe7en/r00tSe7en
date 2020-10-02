@@ -18,6 +18,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=Flash-Pop" />
 </a>
 
+<a href="https://github.com/r00tSe7en/Mail-Probe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=Mail-Probe" />
+</a>
+
+<a href="https://github.com/r00tSe7en/phpMyAdminBruter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=phpMyAdminBruter" />
+</a>
+
 <a href="https://github.com/r00tSe7en/PWDfuzzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=PWDfuzzer" />
 </a>
