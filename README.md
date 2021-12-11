@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://github.com/r00tSe7en/ShellBruter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=ShellBruter" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=JNDIMonitor" />
 </a>
 
 <!--
