@@ -30,7 +30,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=PWDfuzzer" />
 </a>
 
-<a href="https://github.com/r00tSe7en/ShellBruter">
+<a href="https://github.com/r00tSe7en/JNDIMonitor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=JNDIMonitor" />
 </a>
 
