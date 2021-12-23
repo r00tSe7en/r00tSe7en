@@ -26,8 +26,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=phpMyAdminBruter" />
 </a>
 
-<a href="https://github.com/r00tSe7en/PWDfuzzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=PWDfuzzer" />
+<a href="https://github.com/r00tSe7en/log4jScan_Modify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=log4jScan_Modify" />
 </a>
 
 <a href="https://github.com/r00tSe7en/JNDIMonitor">
