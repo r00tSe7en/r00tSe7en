@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70725&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&lines=%F0%9F%87%A8%F0%9F%87%B3+%E4%B8%AD%E5%9B%BD%E4%BF%9D%E5%AE%89%E9%98%9F%EF%BC%8C%E6%89%9B%E8%B5%B7%E6%9E%AA%E6%9D%A5%E5%B0%B1%E6%98%AF%E5%85%B5%EF%BC%8C%E6%88%91%E9%80%8F%EF%BC%81)](https://git.io/typing-svg)
 
-![](https://gv.halberd.cn/r00tSe7en?theme=stroke-fill&active=FF0000&deactive=FF0000&len=6&speed=30&size=30&space=4&tail=1)
-
 <!--
 **r00tSe7en/r00tSe7en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
