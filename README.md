@@ -41,6 +41,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=gitbook" />
 </a>
 
+<a href="https://github.com/VMsec/ihoneyBakFileScan_Modify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VMsec&theme=dracula&repo=ihoneyBakFileScan_Modify" />
+</a>
+
+<a href="https://github.com/r00tSe7en/cobweb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=cobweb" />
+</a>
+
 <a href="https://github.com/r00tSe7en/log4jScan_Modify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=log4jScan_Modify" />
 </a>
@@ -48,3 +56,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/r00tSe7en/JNDIMonitor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=JNDIMonitor" />
 </a>
+
