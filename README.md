@@ -57,3 +57,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=JNDIMonitor" />
 </a>
 
+<a href="https://github.com/r00tSe7en/ShadowlessFeet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=ShadowlessFeet" />
+</a>
+
+<a href="https://github.com/r00tSe7en/URLPath">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=URLPath" />
+</a>
