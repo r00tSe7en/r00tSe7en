@@ -64,3 +64,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/r00tSe7en/URLPath">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=URLPath" />
 </a>
+
+<a href="https://github.com/r00tSe7en/MyDict">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=MyDict" />
+</a>
+
+<a href="https://github.com/r00tSe7en/BypassNeo-reGeorg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=BypassNeo-reGeorg" />
+</a>
