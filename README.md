@@ -72,3 +72,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/r00tSe7en/BypassNeo-reGeorg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=BypassNeo-reGeorg" />
 </a>
+
+<!-- my-badges start -->
+<!-- my-badges end -->
