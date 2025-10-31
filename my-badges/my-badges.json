@@ -1,0 +1,142 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/r00tSe7en/pictures/commit/ae1c2b073906505684945b7ce2048b86b051270a\"><strong>a</strong>e1c2b073906505684945b7ce2048b86b051270a</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/r00tSe7en/cobweb/commit/ab0ada81d545a93562def357635b5657b5f66285\"><strong>ab</strong>0ada81d545a93562def357635b5657b5f66285</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/r00tSe7en/r00tSe7en/commit/abc7d8ed0c047609b9cbd55322bd19c4104a63af\"><strong>abc</strong>7d8ed0c047609b9cbd55322bd19c4104a63af</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/r00tSe7en/r00tSe7en/commit/8f6635d0da3ddeadb4cd60501079aad5f29ef6b4\">8f6635d0da3d<strong>dead</strong>b4cd60501079aad5f29ef6b4</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 300 times)\n2. readme.md (used 200 times)\n3. add (used 155 times)\n4. files (used 148 times)\n5. via (used 148 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/r00tSe7en/MyDict/commit/06d4c64f431a7022aabbe94c3d6df1a0809c7b31\">06d4c64</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/r00tSe7en/MyDict/commit/06d4c64f431a7022aabbe94c3d6df1a0809c7b31\">06d4c64</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "rebel-coder",
+    "tier": 0,
+    "desc": "I am a rebel coder.",
+    "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
+    "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/r00tSe7en/Flash-Pop/commit/35298b85d0106daa3f9d4f842c9b8faeb1369c13\">35298b8</a>\n- <a href=\"https://github.com/r00tSe7en/Flash-Pop/commit/f0d9fc463077b51fc23e22cfaca00da46e449bce\">f0d9fc4</a>\n- <a href=\"https://github.com/r00tSe7en/pictures/commit/76af427081498a6d97874e9569a715bfcc449f9a\">76af427</a>\n- <a href=\"https://github.com/r00tSe7en/Flash-Pop/commit/342a3ae652dd3056a4ac1d44a71a5a9225f6b35e\">342a3ae</a>\n- <a href=\"https://github.com/r00tSe7en/Flash-Pop/commit/ebad4ebce356e1d475f565283613b184cfa1ffa1\">ebad4eb</a>\n- <a href=\"https://github.com/r00tSe7en/Flash-Pop/commit/c55f882ee51112272b169d056cd9fca89a21f66f\">c55f882</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/projectdiscovery/cdncheck/issues/261\">👍</a>\n* <a href=\"https://github.com/Neeke/HongCMS/issues/7\">❤️</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/r00tSe7en/r00tSe7en/commit/8b4bd8e2904e81680277972f32e919226a20cfc1\">8b4bd8e</a>\n- <a href=\"https://github.com/r00tSe7en/r00tSe7en/commit/ebb0cd7df85e7724b2ceb7a797d6fab04428f388\">ebb0cd7</a>\n- <a href=\"https://github.com/r00tSe7en/r00tSe7en/commit/b4ede0d9392f135e4dd394c00b3fe3d23b3e5af6\">b4ede0d</a>\n- <a href=\"https://github.com/r00tSe7en/r00tSe7en/commit/6274fc42a879f7466708229c6ae881ee9b30b75d\">6274fc4</a>\n- <a href=\"https://github.com/VMsec/ihoneyBakFileScan_Modify/commit/6751e7cad3c2b6682560a4fbb6bf1c6b5297b88b\">6751e7c</a>\n- <a href=\"https://github.com/r00tSe7en/pictures/commit/73a3fdc521120b3a347968da62f185cbe6ab6ec4\">73a3fdc</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 17 my own repositories.",
+    "body": "- <a href=\"https://github.com/r00tSe7en/GoogleHackingTool\">r00tSe7en/GoogleHackingTool</a>\n- <a href=\"https://github.com/r00tSe7en/get_AV\">r00tSe7en/get_AV</a>\n- <a href=\"https://github.com/r00tSe7en/Fake-flash.cn\">r00tSe7en/Fake-flash.cn</a>\n- <a href=\"https://github.com/r00tSe7en/ShellBruter\">r00tSe7en/ShellBruter</a>\n- <a href=\"https://github.com/r00tSe7en/Flash-Pop\">r00tSe7en/Flash-Pop</a>\n- <a href=\"https://github.com/r00tSe7en/Mail-Probe\">r00tSe7en/Mail-Probe</a>\n- <a href=\"https://github.com/r00tSe7en/Reverse-shell-cheatsheet\">r00tSe7en/Reverse-shell-cheatsheet</a>\n- <a href=\"https://github.com/r00tSe7en/JNDIMonitor\">r00tSe7en/JNDIMonitor</a>\n- <a href=\"https://github.com/r00tSe7en/log4jScan_Modify\">r00tSe7en/log4jScan_Modify</a>\n- <a href=\"https://github.com/r00tSe7en/naabu2nmap\">r00tSe7en/naabu2nmap</a>\n- <a href=\"https://github.com/r00tSe7en/cobweb\">r00tSe7en/cobweb</a>\n- <a href=\"https://github.com/r00tSe7en/ShadowlessFeet\">r00tSe7en/ShadowlessFeet</a>\n- <a href=\"https://github.com/r00tSe7en/msmap\">r00tSe7en/msmap</a>\n- <a href=\"https://github.com/r00tSe7en/URLPath\">r00tSe7en/URLPath</a>\n- <a href=\"https://github.com/r00tSe7en/BypassNeo-reGeorg\">r00tSe7en/BypassNeo-reGeorg</a>\n- <a href=\"https://github.com/r00tSe7en/SSH-FingerPrint\">r00tSe7en/SSH-FingerPrint</a>\n- <a href=\"https://github.com/r00tSe7en/nocdn\">r00tSe7en/nocdn</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/r00tSe7en/naabu2nmap\">r00tSe7en/naabu2nmap: ★17</a>\n* <a href=\"https://github.com/r00tSe7en/phpMyAdminBruter\">r00tSe7en/phpMyAdminBruter: ★14</a>\n* <a href=\"https://github.com/r00tSe7en/pentest_study\">r00tSe7en/pentest_study: ★12</a>\n* <a href=\"https://github.com/r00tSe7en/nocdn\">r00tSe7en/nocdn: ★9</a>\n* <a href=\"https://github.com/r00tSe7en/RedTeam-BCS\">r00tSe7en/RedTeam-BCS: ★7</a>\n* <a href=\"https://github.com/r00tSe7en/r00tSe7en\">r00tSe7en/r00tSe7en: ★7</a>\n* <a href=\"https://github.com/r00tSe7en/PythonCode\">r00tSe7en/PythonCode: ★5</a>\n* <a href=\"https://github.com/r00tSe7en/SSH-FingerPrint\">r00tSe7en/SSH-FingerPrint: ★5</a>\n* <a href=\"https://github.com/r00tSe7en/common-regex\">r00tSe7en/common-regex: ★4</a>\n* <a href=\"https://github.com/r00tSe7en/supplier\">r00tSe7en/supplier: ★4</a>\n* <a href=\"https://github.com/r00tSe7en/fake-AdobeFlashPlayer\">r00tSe7en/fake-AdobeFlashPlayer: ★3</a>\n* <a href=\"https://github.com/VMsec/log4jScan_Modify\">VMsec/log4jScan_Modify: ★3</a>\n* <a href=\"https://github.com/r00tSe7en/msmap\">r00tSe7en/msmap: ★3</a>\n* <a href=\"https://github.com/r00tSe7en/php_bugs\">r00tSe7en/php_bugs: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/Windows-via-C-\">r00tSe7en/Windows-via-C-: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/SpoofWeb\">r00tSe7en/SpoofWeb: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/JavaSecInterview\">r00tSe7en/JavaSecInterview: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/cwChecker\">r00tSe7en/cwChecker: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/r00tSe7en.github.io\">r00tSe7en/r00tSe7en.github.io: ★1</a>\n* <a href=\"https://github.com/r00tSe7en/JNDI-Inject-Exploit\">r00tSe7en/JNDI-Inject-Exploit: ★1</a>\n* <a href=\"https://github.com/VMsec/Inseng_Download\">VMsec/Inseng_Download: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "stars-500",
+    "tier": 2,
+    "desc": "I collected 500 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/r00tSe7en/MyDict\">r00tSe7en/MyDict: ★75</a>\n* <a href=\"https://github.com/VMsec/iisShortNameScaner\">VMsec/iisShortNameScaner: ★71</a>\n* <a href=\"https://github.com/r00tSe7en/gitbook\">r00tSe7en/gitbook: ★54</a>\n* <a href=\"https://github.com/r00tSe7en/ShadowlessFeet\">r00tSe7en/ShadowlessFeet: ★52</a>\n* <a href=\"https://github.com/r00tSe7en/URLPath\">r00tSe7en/URLPath: ★46</a>\n* <a href=\"https://github.com/VMsec/PortBenderEXE\">VMsec/PortBenderEXE: ★29</a>\n* <a href=\"https://github.com/r00tSe7en/ShellBruter\">r00tSe7en/ShellBruter: ★26</a>\n* <a href=\"https://github.com/r00tSe7en/log4jScan_Modify\">r00tSe7en/log4jScan_Modify: ★26</a>\n* <a href=\"https://github.com/r00tSe7en/Intranet_Penetration_Tips\">r00tSe7en/Intranet_Penetration_Tips: ★19</a>\n* <a href=\"https://github.com/r00tSe7en/PWDfuzzer\">r00tSe7en/PWDfuzzer: ★19</a>\n* <a href=\"https://github.com/r00tSe7en/Pentest_Note\">r00tSe7en/Pentest_Note: ★18</a>\n* <a href=\"https://github.com/r00tSe7en/naabu2nmap\">r00tSe7en/naabu2nmap: ★17</a>\n* <a href=\"https://github.com/r00tSe7en/phpMyAdminBruter\">r00tSe7en/phpMyAdminBruter: ★14</a>\n* <a href=\"https://github.com/r00tSe7en/pentest_study\">r00tSe7en/pentest_study: ★12</a>\n* <a href=\"https://github.com/r00tSe7en/nocdn\">r00tSe7en/nocdn: ★9</a>\n* <a href=\"https://github.com/r00tSe7en/RedTeam-BCS\">r00tSe7en/RedTeam-BCS: ★7</a>\n* <a href=\"https://github.com/r00tSe7en/r00tSe7en\">r00tSe7en/r00tSe7en: ★7</a>\n* <a href=\"https://github.com/r00tSe7en/PythonCode\">r00tSe7en/PythonCode: ★5</a>\n* <a href=\"https://github.com/r00tSe7en/SSH-FingerPrint\">r00tSe7en/SSH-FingerPrint: ★5</a>\n* <a href=\"https://github.com/r00tSe7en/common-regex\">r00tSe7en/common-regex: ★4</a>\n* <a href=\"https://github.com/r00tSe7en/supplier\">r00tSe7en/supplier: ★4</a>\n* <a href=\"https://github.com/r00tSe7en/fake-AdobeFlashPlayer\">r00tSe7en/fake-AdobeFlashPlayer: ★3</a>\n* <a href=\"https://github.com/VMsec/log4jScan_Modify\">VMsec/log4jScan_Modify: ★3</a>\n* <a href=\"https://github.com/r00tSe7en/msmap\">r00tSe7en/msmap: ★3</a>\n* <a href=\"https://github.com/r00tSe7en/php_bugs\">r00tSe7en/php_bugs: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/Windows-via-C-\">r00tSe7en/Windows-via-C-: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/SpoofWeb\">r00tSe7en/SpoofWeb: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/JavaSecInterview\">r00tSe7en/JavaSecInterview: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/cwChecker\">r00tSe7en/cwChecker: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/r00tSe7en.github.io\">r00tSe7en/r00tSe7en.github.io: ★1</a>\n* <a href=\"https://github.com/r00tSe7en/JNDI-Inject-Exploit\">r00tSe7en/JNDI-Inject-Exploit: ★1</a>\n* <a href=\"https://github.com/VMsec/Inseng_Download\">VMsec/Inseng_Download: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-500.png"
+  },
+  {
+    "id": "stars-1000",
+    "tier": 3,
+    "desc": "I collected 1000 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/r00tSe7en/GoogleHackingTool\">r00tSe7en/GoogleHackingTool: ★230</a>\n* <a href=\"https://github.com/r00tSe7en/Mail-Probe\">r00tSe7en/Mail-Probe: ★222</a>\n* <a href=\"https://github.com/r00tSe7en/Reverse-shell-cheatsheet\">r00tSe7en/Reverse-shell-cheatsheet: ★94</a>\n* <a href=\"https://github.com/r00tSe7en/cobweb\">r00tSe7en/cobweb: ★92</a>\n* <a href=\"https://github.com/r00tSe7en/MyDict\">r00tSe7en/MyDict: ★75</a>\n* <a href=\"https://github.com/VMsec/iisShortNameScaner\">VMsec/iisShortNameScaner: ★71</a>\n* <a href=\"https://github.com/r00tSe7en/gitbook\">r00tSe7en/gitbook: ★54</a>\n* <a href=\"https://github.com/r00tSe7en/ShadowlessFeet\">r00tSe7en/ShadowlessFeet: ★52</a>\n* <a href=\"https://github.com/r00tSe7en/URLPath\">r00tSe7en/URLPath: ★46</a>\n* <a href=\"https://github.com/VMsec/PortBenderEXE\">VMsec/PortBenderEXE: ★29</a>\n* <a href=\"https://github.com/r00tSe7en/ShellBruter\">r00tSe7en/ShellBruter: ★26</a>\n* <a href=\"https://github.com/r00tSe7en/log4jScan_Modify\">r00tSe7en/log4jScan_Modify: ★26</a>\n* <a href=\"https://github.com/r00tSe7en/Intranet_Penetration_Tips\">r00tSe7en/Intranet_Penetration_Tips: ★19</a>\n* <a href=\"https://github.com/r00tSe7en/PWDfuzzer\">r00tSe7en/PWDfuzzer: ★19</a>\n* <a href=\"https://github.com/r00tSe7en/Pentest_Note\">r00tSe7en/Pentest_Note: ★18</a>\n* <a href=\"https://github.com/r00tSe7en/naabu2nmap\">r00tSe7en/naabu2nmap: ★17</a>\n* <a href=\"https://github.com/r00tSe7en/phpMyAdminBruter\">r00tSe7en/phpMyAdminBruter: ★14</a>\n* <a href=\"https://github.com/r00tSe7en/pentest_study\">r00tSe7en/pentest_study: ★12</a>\n* <a href=\"https://github.com/r00tSe7en/nocdn\">r00tSe7en/nocdn: ★9</a>\n* <a href=\"https://github.com/r00tSe7en/RedTeam-BCS\">r00tSe7en/RedTeam-BCS: ★7</a>\n* <a href=\"https://github.com/r00tSe7en/r00tSe7en\">r00tSe7en/r00tSe7en: ★7</a>\n* <a href=\"https://github.com/r00tSe7en/PythonCode\">r00tSe7en/PythonCode: ★5</a>\n* <a href=\"https://github.com/r00tSe7en/SSH-FingerPrint\">r00tSe7en/SSH-FingerPrint: ★5</a>\n* <a href=\"https://github.com/r00tSe7en/common-regex\">r00tSe7en/common-regex: ★4</a>\n* <a href=\"https://github.com/r00tSe7en/supplier\">r00tSe7en/supplier: ★4</a>\n* <a href=\"https://github.com/r00tSe7en/fake-AdobeFlashPlayer\">r00tSe7en/fake-AdobeFlashPlayer: ★3</a>\n* <a href=\"https://github.com/VMsec/log4jScan_Modify\">VMsec/log4jScan_Modify: ★3</a>\n* <a href=\"https://github.com/r00tSe7en/msmap\">r00tSe7en/msmap: ★3</a>\n* <a href=\"https://github.com/r00tSe7en/php_bugs\">r00tSe7en/php_bugs: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/Windows-via-C-\">r00tSe7en/Windows-via-C-: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/SpoofWeb\">r00tSe7en/SpoofWeb: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/JavaSecInterview\">r00tSe7en/JavaSecInterview: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/cwChecker\">r00tSe7en/cwChecker: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/r00tSe7en.github.io\">r00tSe7en/r00tSe7en.github.io: ★1</a>\n* <a href=\"https://github.com/r00tSe7en/JNDI-Inject-Exploit\">r00tSe7en/JNDI-Inject-Exploit: ★1</a>\n* <a href=\"https://github.com/VMsec/Inseng_Download\">VMsec/Inseng_Download: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-1000.png"
+  },
+  {
+    "id": "stars-2000",
+    "tier": 4,
+    "desc": "I collected 2000 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/r00tSe7en/JNDIMonitor\">r00tSe7en/JNDIMonitor: ★292</a>\n* <a href=\"https://github.com/r00tSe7en/get_AV\">r00tSe7en/get_AV: ★288</a>\n* <a href=\"https://github.com/r00tSe7en/BypassNeo-reGeorg\">r00tSe7en/BypassNeo-reGeorg: ★266</a>\n* <a href=\"https://github.com/r00tSe7en/GoogleHackingTool\">r00tSe7en/GoogleHackingTool: ★230</a>\n* <a href=\"https://github.com/r00tSe7en/Mail-Probe\">r00tSe7en/Mail-Probe: ★222</a>\n* <a href=\"https://github.com/r00tSe7en/Reverse-shell-cheatsheet\">r00tSe7en/Reverse-shell-cheatsheet: ★94</a>\n* <a href=\"https://github.com/r00tSe7en/cobweb\">r00tSe7en/cobweb: ★92</a>\n* <a href=\"https://github.com/r00tSe7en/MyDict\">r00tSe7en/MyDict: ★75</a>\n* <a href=\"https://github.com/VMsec/iisShortNameScaner\">VMsec/iisShortNameScaner: ★71</a>\n* <a href=\"https://github.com/r00tSe7en/gitbook\">r00tSe7en/gitbook: ★54</a>\n* <a href=\"https://github.com/r00tSe7en/ShadowlessFeet\">r00tSe7en/ShadowlessFeet: ★52</a>\n* <a href=\"https://github.com/r00tSe7en/URLPath\">r00tSe7en/URLPath: ★46</a>\n* <a href=\"https://github.com/VMsec/PortBenderEXE\">VMsec/PortBenderEXE: ★29</a>\n* <a href=\"https://github.com/r00tSe7en/ShellBruter\">r00tSe7en/ShellBruter: ★26</a>\n* <a href=\"https://github.com/r00tSe7en/log4jScan_Modify\">r00tSe7en/log4jScan_Modify: ★26</a>\n* <a href=\"https://github.com/r00tSe7en/Intranet_Penetration_Tips\">r00tSe7en/Intranet_Penetration_Tips: ★19</a>\n* <a href=\"https://github.com/r00tSe7en/PWDfuzzer\">r00tSe7en/PWDfuzzer: ★19</a>\n* <a href=\"https://github.com/r00tSe7en/Pentest_Note\">r00tSe7en/Pentest_Note: ★18</a>\n* <a href=\"https://github.com/r00tSe7en/naabu2nmap\">r00tSe7en/naabu2nmap: ★17</a>\n* <a href=\"https://github.com/r00tSe7en/phpMyAdminBruter\">r00tSe7en/phpMyAdminBruter: ★14</a>\n* <a href=\"https://github.com/r00tSe7en/pentest_study\">r00tSe7en/pentest_study: ★12</a>\n* <a href=\"https://github.com/r00tSe7en/nocdn\">r00tSe7en/nocdn: ★9</a>\n* <a href=\"https://github.com/r00tSe7en/RedTeam-BCS\">r00tSe7en/RedTeam-BCS: ★7</a>\n* <a href=\"https://github.com/r00tSe7en/r00tSe7en\">r00tSe7en/r00tSe7en: ★7</a>\n* <a href=\"https://github.com/r00tSe7en/PythonCode\">r00tSe7en/PythonCode: ★5</a>\n* <a href=\"https://github.com/r00tSe7en/SSH-FingerPrint\">r00tSe7en/SSH-FingerPrint: ★5</a>\n* <a href=\"https://github.com/r00tSe7en/common-regex\">r00tSe7en/common-regex: ★4</a>\n* <a href=\"https://github.com/r00tSe7en/supplier\">r00tSe7en/supplier: ★4</a>\n* <a href=\"https://github.com/r00tSe7en/fake-AdobeFlashPlayer\">r00tSe7en/fake-AdobeFlashPlayer: ★3</a>\n* <a href=\"https://github.com/VMsec/log4jScan_Modify\">VMsec/log4jScan_Modify: ★3</a>\n* <a href=\"https://github.com/r00tSe7en/msmap\">r00tSe7en/msmap: ★3</a>\n* <a href=\"https://github.com/r00tSe7en/php_bugs\">r00tSe7en/php_bugs: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/Windows-via-C-\">r00tSe7en/Windows-via-C-: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/SpoofWeb\">r00tSe7en/SpoofWeb: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/JavaSecInterview\">r00tSe7en/JavaSecInterview: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/cwChecker\">r00tSe7en/cwChecker: ★2</a>\n* <a href=\"https://github.com/r00tSe7en/r00tSe7en.github.io\">r00tSe7en/r00tSe7en.github.io: ★1</a>\n* <a href=\"https://github.com/r00tSe7en/JNDI-Inject-Exploit\">r00tSe7en/JNDI-Inject-Exploit: ★1</a>\n* <a href=\"https://github.com/VMsec/Inseng_Download\">VMsec/Inseng_Download: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-2000.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/r00tSe7en/r00tSe7en/commit/8b4bd8e2904e81680277972f32e919226a20cfc1\">8b4bd8e</a>\n- <a href=\"https://github.com/r00tSe7en/r00tSe7en/commit/ebb0cd7df85e7724b2ceb7a797d6fab04428f388\">ebb0cd7</a>\n- <a href=\"https://github.com/r00tSe7en/r00tSe7en/commit/b4ede0d9392f135e4dd394c00b3fe3d23b3e5af6\">b4ede0d</a>\n- <a href=\"https://github.com/r00tSe7en/r00tSe7en/commit/6274fc42a879f7466708229c6ae881ee9b30b75d\">6274fc4</a>\n- <a href=\"https://github.com/r00tSe7en/gitbook/commit/04de48bfcbc77c3701d8b4a74cb1b5789243ec5c\">04de48b</a>\n- <a href=\"https://github.com/r00tSe7en/gitbook/commit/3e6abd81db7ec7d999334842d7cfd340633118e1\">3e6abd8</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/r00tSe7en/gitbook/commit/6e85c60059b7cb12cfd638e13096ee4794523a85\">6e85c60</a>\n- <a href=\"https://github.com/r00tSe7en/gitbook/commit/6bf7bce9fa37453d13d7ae6edda7df53d6b52ca8\">6bf7bce</a>\n- <a href=\"https://github.com/r00tSe7en/PythonCode/commit/770b4aedb6120ee0e76942b75f32815783f30932\">770b4ae</a>\n- <a href=\"https://github.com/r00tSe7en/PythonCode/commit/daa3bd792817639ba842e966c5d98ba1a8912bf5\">daa3bd7</a>\n- <a href=\"https://github.com/r00tSe7en/gitbook/commit/af7149009fab54093be2f3052e21e9a976a9011d\">af71490</a>\n- <a href=\"https://github.com/r00tSe7en/gitbook/commit/91c19747e282f13903fdada236c35d40e9a86882\">91c1974</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  }
+]
