@@ -12,7 +12,7 @@ Repos:
 * <a href="https://github.com/VMsec/iisShortNameScaner">VMsec/iisShortNameScaner: ★72</a>
 * <a href="https://github.com/r00tSe7en/gitbook">r00tSe7en/gitbook: ★54</a>
 * <a href="https://github.com/r00tSe7en/ShadowlessFeet">r00tSe7en/ShadowlessFeet: ★52</a>
-* <a href="https://github.com/r00tSe7en/URLPath">r00tSe7en/URLPath: ★46</a>
+* <a href="https://github.com/r00tSe7en/URLPath">r00tSe7en/URLPath: ★47</a>
 * <a href="https://github.com/VMsec/PortBenderEXE">VMsec/PortBenderEXE: ★29</a>
 * <a href="https://github.com/r00tSe7en/ShellBruter">r00tSe7en/ShellBruter: ★27</a>
 * <a href="https://github.com/r00tSe7en/log4jScan_Modify">r00tSe7en/log4jScan_Modify: ★26</a>
