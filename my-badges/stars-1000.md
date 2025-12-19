@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/r00tSe7en/GoogleHackingTool">r00tSe7en/GoogleHackingTool: ★231</a>
 * <a href="https://github.com/r00tSe7en/Mail-Probe">r00tSe7en/Mail-Probe: ★224</a>
-* <a href="https://github.com/r00tSe7en/Reverse-shell-cheatsheet">r00tSe7en/Reverse-shell-cheatsheet: ★94</a>
+* <a href="https://github.com/r00tSe7en/Reverse-shell-cheatsheet">r00tSe7en/Reverse-shell-cheatsheet: ★95</a>
 * <a href="https://github.com/r00tSe7en/cobweb">r00tSe7en/cobweb: ★93</a>
 * <a href="https://github.com/r00tSe7en/MyDict">r00tSe7en/MyDict: ★77</a>
 * <a href="https://github.com/VMsec/iisShortNameScaner">VMsec/iisShortNameScaner: ★74</a>
