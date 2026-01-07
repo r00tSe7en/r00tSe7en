@@ -145,5 +145,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/r00tSe7en/pictures/commit/812904f21080095e111da35136276604d29d68b1\">812904f</a>\n- <a href=\"https://github.com/r00tSe7en/pictures/commit/99641df694df66c7fb2e9c53518d5999723db327\">99641df</a>\n- <a href=\"https://github.com/r00tSe7en/pictures/commit/3f3da3aef57b58f1447ba9687bd097ba620ffba2\">3f3da3a</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/r00tSe7en/gitbook/commit/6306255756cbd6cf1d713bdc498e488fb058fb27\">6306255</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
