@@ -152,5 +152,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/r00tSe7en/gitbook/commit/6306255756cbd6cf1d713bdc498e488fb058fb27\">6306255</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/r00tSe7en/gitbook/commit/38d2da67dfc4c876077651e9be201c1bcfa50712\">38d2da6</a>\n- <a href=\"https://github.com/r00tSe7en/gitbook/commit/1a6334362f9f4bb36c0fa9f4b190a40cab75ba1b\">1a63343</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
   }
 ]
