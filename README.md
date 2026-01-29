@@ -15,62 +15,62 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=r00tSe7en&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)
+![Github Stats](https://github-readme-stats-fast.vercel.app/api?username=r00tSe7en&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)
 
 <a href="https://github.com/r00tSe7en/get_AV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=get_AV" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=get_AV" />
 </a>
 
 <a href="https://github.com/r00tSe7en/GoogleHackingTool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=GoogleHackingTool" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=GoogleHackingTool" />
 </a>
 
 <a href="https://github.com/r00tSe7en/Fake-flash.cn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=Fake-flash.cn" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=Fake-flash.cn" />
 </a>
 
 <a href="https://github.com/r00tSe7en/Flash-Pop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=Flash-Pop" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=Flash-Pop" />
 </a>
 
 <a href="https://github.com/r00tSe7en/Mail-Probe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=Mail-Probe" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=Mail-Probe" />
 </a>
 
 <a href="https://github.com/r00tSe7en/gitbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=gitbook" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=gitbook" />
 </a>
 
 <a href="https://github.com/VMsec/ihoneyBakFileScan_Modify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VMsec&theme=dracula&repo=ihoneyBakFileScan_Modify" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=VMsec&theme=dracula&repo=ihoneyBakFileScan_Modify" />
 </a>
 
 <a href="https://github.com/r00tSe7en/cobweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=cobweb" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=cobweb" />
 </a>
 
 <a href="https://github.com/r00tSe7en/log4jScan_Modify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=log4jScan_Modify" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=log4jScan_Modify" />
 </a>
 
 <a href="https://github.com/r00tSe7en/JNDIMonitor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=JNDIMonitor" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=JNDIMonitor" />
 </a>
 
 <a href="https://github.com/r00tSe7en/ShadowlessFeet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=ShadowlessFeet" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=ShadowlessFeet" />
 </a>
 
 <a href="https://github.com/r00tSe7en/URLPath">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=URLPath" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=URLPath" />
 </a>
 
 <a href="https://github.com/r00tSe7en/MyDict">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=MyDict" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=MyDict" />
 </a>
 
 <a href="https://github.com/r00tSe7en/BypassNeo-reGeorg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=BypassNeo-reGeorg" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=BypassNeo-reGeorg" />
 </a>
 
 <!-- my-badges start -->
