@@ -12,7 +12,7 @@ Repos:
 * <a href="https://github.com/r00tSe7en/Reverse-shell-cheatsheet">r00tSe7en/Reverse-shell-cheatsheet: ★95</a>
 * <a href="https://github.com/r00tSe7en/cobweb">r00tSe7en/cobweb: ★93</a>
 * <a href="https://github.com/r00tSe7en/MyDict">r00tSe7en/MyDict: ★79</a>
-* <a href="https://github.com/VMsec/iisShortNameScaner">VMsec/iisShortNameScaner: ★73</a>
+* <a href="https://github.com/VMsec/iisShortNameScaner">VMsec/iisShortNameScaner: ★74</a>
 * <a href="https://github.com/r00tSe7en/gitbook">r00tSe7en/gitbook: ★54</a>
 * <a href="https://github.com/r00tSe7en/ShadowlessFeet">r00tSe7en/ShadowlessFeet: ★52</a>
 * <a href="https://github.com/r00tSe7en/URLPath">r00tSe7en/URLPath: ★47</a>
