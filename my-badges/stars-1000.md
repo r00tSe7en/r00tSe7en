@@ -16,7 +16,7 @@ Repos:
 * <a href="https://github.com/VMsec/PortBenderEXE">VMsec/PortBenderEXE: ★29</a>
 * <a href="https://github.com/r00tSe7en/ShellBruter">r00tSe7en/ShellBruter: ★28</a>
 * <a href="https://github.com/r00tSe7en/log4jScan_Modify">r00tSe7en/log4jScan_Modify: ★26</a>
-* <a href="https://github.com/r00tSe7en/Intranet_Penetration_Tips">r00tSe7en/Intranet_Penetration_Tips: ★19</a>
+* <a href="https://github.com/r00tSe7en/Intranet_Penetration_Tips">r00tSe7en/Intranet_Penetration_Tips: ★20</a>
 * <a href="https://github.com/r00tSe7en/PWDfuzzer">r00tSe7en/PWDfuzzer: ★19</a>
 * <a href="https://github.com/r00tSe7en/Pentest_Note">r00tSe7en/Pentest_Note: ★18</a>
 * <a href="https://github.com/r00tSe7en/naabu2nmap">r00tSe7en/naabu2nmap: ★17</a>
