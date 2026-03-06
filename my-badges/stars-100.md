@@ -7,12 +7,12 @@ Repos:
 * <a href="https://github.com/r00tSe7en/naabu2nmap">r00tSe7en/naabu2nmap: ★17</a>
 * <a href="https://github.com/r00tSe7en/phpMyAdminBruter">r00tSe7en/phpMyAdminBruter: ★14</a>
 * <a href="https://github.com/r00tSe7en/pentest_study">r00tSe7en/pentest_study: ★12</a>
-* <a href="https://github.com/r00tSe7en/nocdn">r00tSe7en/nocdn: ★9</a>
+* <a href="https://github.com/r00tSe7en/nocdn">r00tSe7en/nocdn: ★8</a>
 * <a href="https://github.com/r00tSe7en/RedTeam-BCS">r00tSe7en/RedTeam-BCS: ★7</a>
 * <a href="https://github.com/r00tSe7en/r00tSe7en">r00tSe7en/r00tSe7en: ★7</a>
-* <a href="https://github.com/r00tSe7en/PythonCode">r00tSe7en/PythonCode: ★5</a>
-* <a href="https://github.com/r00tSe7en/SSH-FingerPrint">r00tSe7en/SSH-FingerPrint: ★5</a>
+* <a href="https://github.com/r00tSe7en/PythonCode">r00tSe7en/PythonCode: ★4</a>
 * <a href="https://github.com/r00tSe7en/common-regex">r00tSe7en/common-regex: ★4</a>
+* <a href="https://github.com/r00tSe7en/SSH-FingerPrint">r00tSe7en/SSH-FingerPrint: ★4</a>
 * <a href="https://github.com/r00tSe7en/fake-AdobeFlashPlayer">r00tSe7en/fake-AdobeFlashPlayer: ★3</a>
 * <a href="https://github.com/VMsec/log4jScan_Modify">VMsec/log4jScan_Modify: ★3</a>
 * <a href="https://github.com/r00tSe7en/supplier">r00tSe7en/supplier: ★3</a>
@@ -21,10 +21,10 @@ Repos:
 * <a href="https://github.com/r00tSe7en/Windows-via-C-">r00tSe7en/Windows-via-C-: ★2</a>
 * <a href="https://github.com/r00tSe7en/SpoofWeb">r00tSe7en/SpoofWeb: ★2</a>
 * <a href="https://github.com/r00tSe7en/JavaSecInterview">r00tSe7en/JavaSecInterview: ★2</a>
-* <a href="https://github.com/r00tSe7en/cwChecker">r00tSe7en/cwChecker: ★2</a>
 * <a href="https://github.com/r00tSe7en/r00tSe7en.github.io">r00tSe7en/r00tSe7en.github.io: ★1</a>
 * <a href="https://github.com/r00tSe7en/JNDI-Inject-Exploit">r00tSe7en/JNDI-Inject-Exploit: ★1</a>
 * <a href="https://github.com/VMsec/Inseng_Download">VMsec/Inseng_Download: ★1</a>
+* <a href="https://github.com/r00tSe7en/cwChecker">r00tSe7en/cwChecker: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
