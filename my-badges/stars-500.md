@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/r00tSe7en/MyDict">r00tSe7en/MyDict: ★80</a>
+* <a href="https://github.com/r00tSe7en/MyDict">r00tSe7en/MyDict: ★81</a>
 * <a href="https://github.com/VMsec/iisShortNameScaner">VMsec/iisShortNameScaner: ★74</a>
 * <a href="https://github.com/r00tSe7en/gitbook">r00tSe7en/gitbook: ★53</a>
 * <a href="https://github.com/r00tSe7en/ShadowlessFeet">r00tSe7en/ShadowlessFeet: ★50</a>
