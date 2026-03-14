@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 301 times)\n2. readme.md (used 201 times)\n3. add (used 155 times)\n4. files (used 148 times)\n5. via (used 148 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 310 times)\n2. readme.md (used 202 times)\n3. add (used 155 times)\n4. files (used 148 times)\n5. via (used 148 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -159,5 +159,12 @@
     "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
     "body": "Commits:\n\n- <a href=\"https://github.com/r00tSe7en/gitbook/commit/38d2da67dfc4c876077651e9be201c1bcfa50712\">38d2da6</a>\n- <a href=\"https://github.com/r00tSe7en/gitbook/commit/1a6334362f9f4bb36c0fa9f4b190a40cab75ba1b\">1a63343</a>",
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VMsec/ihoneyBakFileScan_Modify/commit/b711073c889427655c04ad4dde2c8ce7ca46c703\">b711073</a>\n- <a href=\"https://github.com/VMsec/ihoneyBakFileScan_Modify/commit/4d8111df1f1da1525e2ac80d235b9d961a538a3a\">4d8111d</a>\n- <a href=\"https://github.com/VMsec/ihoneyBakFileScan_Modify/commit/d91fb1d7d1477d6bed130a5576cbc4e92f101129\">d91fb1d</a>\n- <a href=\"https://github.com/VMsec/ihoneyBakFileScan_Modify/commit/2d120062d913e12c8416601bfee3925bcc631cd8\">2d12006</a>\n- <a href=\"https://github.com/VMsec/ihoneyBakFileScan_Modify/commit/0817fe9187c4fa551b46c9b3ab508c3df9ec9a33\">0817fe9</a>\n- <a href=\"https://github.com/VMsec/ihoneyBakFileScan_Modify/commit/3bf72418fb3c81c3029bea7cbe5232c32ecb7f0f\">3bf7241</a>\n- <a href=\"https://github.com/VMsec/ihoneyBakFileScan_Modify/commit/66d182a7bf199515f582288adcbf30d197f81d16\">66d182a</a>\n- <a href=\"https://github.com/VMsec/ihoneyBakFileScan_Modify/commit/5f3ceb5eb4d211de924814db759ce7e6fdc5709b\">5f3ceb5</a>\n- <a href=\"https://github.com/VMsec/ihoneyBakFileScan_Modify/commit/5b64932792c8b73917657818d34c63892a8c1e49\">5b64932</a>\n- <a href=\"https://github.com/VMsec/ihoneyBakFileScan_Modify/commit/8d18290f1ee4f865625e5b35e6c092bd04114541\">8d18290</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
