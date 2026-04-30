@@ -4,12 +4,13 @@
 
 Repos:
 
+* <a href="https://github.com/r00tSe7en/Pentest_Note">r00tSe7en/Pentest_Note: ★18</a>
 * <a href="https://github.com/r00tSe7en/naabu2nmap">r00tSe7en/naabu2nmap: ★17</a>
 * <a href="https://github.com/r00tSe7en/phpMyAdminBruter">r00tSe7en/phpMyAdminBruter: ★14</a>
-* <a href="https://github.com/r00tSe7en/pentest_study">r00tSe7en/pentest_study: ★12</a>
+* <a href="https://github.com/r00tSe7en/pentest_study">r00tSe7en/pentest_study: ★11</a>
 * <a href="https://github.com/r00tSe7en/nocdn">r00tSe7en/nocdn: ★8</a>
-* <a href="https://github.com/r00tSe7en/RedTeam-BCS">r00tSe7en/RedTeam-BCS: ★7</a>
 * <a href="https://github.com/r00tSe7en/r00tSe7en">r00tSe7en/r00tSe7en: ★7</a>
+* <a href="https://github.com/r00tSe7en/RedTeam-BCS">r00tSe7en/RedTeam-BCS: ★6</a>
 * <a href="https://github.com/r00tSe7en/PythonCode">r00tSe7en/PythonCode: ★4</a>
 * <a href="https://github.com/r00tSe7en/common-regex">r00tSe7en/common-regex: ★4</a>
 * <a href="https://github.com/r00tSe7en/SSH-FingerPrint">r00tSe7en/SSH-FingerPrint: ★4</a>

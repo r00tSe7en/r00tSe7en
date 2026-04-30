@@ -11,7 +11,7 @@ Repos:
 * <a href="https://github.com/r00tSe7en/Mail-Probe">r00tSe7en/Mail-Probe: ★226</a>
 * <a href="https://github.com/r00tSe7en/Reverse-shell-cheatsheet">r00tSe7en/Reverse-shell-cheatsheet: ★95</a>
 * <a href="https://github.com/r00tSe7en/cobweb">r00tSe7en/cobweb: ★92</a>
-* <a href="https://github.com/r00tSe7en/MyDict">r00tSe7en/MyDict: ★81</a>
+* <a href="https://github.com/r00tSe7en/MyDict">r00tSe7en/MyDict: ★80</a>
 * <a href="https://github.com/VMsec/iisShortNameScaner">VMsec/iisShortNameScaner: ★75</a>
 * <a href="https://github.com/r00tSe7en/gitbook">r00tSe7en/gitbook: ★54</a>
 * <a href="https://github.com/r00tSe7en/ShadowlessFeet">r00tSe7en/ShadowlessFeet: ★50</a>
@@ -24,10 +24,10 @@ Repos:
 * <a href="https://github.com/r00tSe7en/Pentest_Note">r00tSe7en/Pentest_Note: ★18</a>
 * <a href="https://github.com/r00tSe7en/naabu2nmap">r00tSe7en/naabu2nmap: ★17</a>
 * <a href="https://github.com/r00tSe7en/phpMyAdminBruter">r00tSe7en/phpMyAdminBruter: ★14</a>
-* <a href="https://github.com/r00tSe7en/pentest_study">r00tSe7en/pentest_study: ★12</a>
+* <a href="https://github.com/r00tSe7en/pentest_study">r00tSe7en/pentest_study: ★11</a>
 * <a href="https://github.com/r00tSe7en/nocdn">r00tSe7en/nocdn: ★8</a>
-* <a href="https://github.com/r00tSe7en/RedTeam-BCS">r00tSe7en/RedTeam-BCS: ★7</a>
 * <a href="https://github.com/r00tSe7en/r00tSe7en">r00tSe7en/r00tSe7en: ★7</a>
+* <a href="https://github.com/r00tSe7en/RedTeam-BCS">r00tSe7en/RedTeam-BCS: ★6</a>
 * <a href="https://github.com/r00tSe7en/PythonCode">r00tSe7en/PythonCode: ★4</a>
 * <a href="https://github.com/r00tSe7en/common-regex">r00tSe7en/common-regex: ★4</a>
 * <a href="https://github.com/r00tSe7en/SSH-FingerPrint">r00tSe7en/SSH-FingerPrint: ★4</a>
