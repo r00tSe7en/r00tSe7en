@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/r00tSe7en/Pentest_Note">r00tSe7en/Pentest_Note: ★18</a>
 * <a href="https://github.com/r00tSe7en/naabu2nmap">r00tSe7en/naabu2nmap: ★17</a>
 * <a href="https://github.com/r00tSe7en/phpMyAdminBruter">r00tSe7en/phpMyAdminBruter: ★14</a>
 * <a href="https://github.com/r00tSe7en/pentest_study">r00tSe7en/pentest_study: ★11</a>
@@ -18,6 +17,7 @@ Repos:
 * <a href="https://github.com/VMsec/log4jScan_Modify">VMsec/log4jScan_Modify: ★3</a>
 * <a href="https://github.com/r00tSe7en/supplier">r00tSe7en/supplier: ★3</a>
 * <a href="https://github.com/r00tSe7en/msmap">r00tSe7en/msmap: ★3</a>
+* <a href="https://github.com/VMsec/7scanAI">VMsec/7scanAI: ★3</a>
 * <a href="https://github.com/r00tSe7en/php_bugs">r00tSe7en/php_bugs: ★2</a>
 * <a href="https://github.com/r00tSe7en/Windows-via-C-">r00tSe7en/Windows-via-C-: ★2</a>
 * <a href="https://github.com/r00tSe7en/SpoofWeb">r00tSe7en/SpoofWeb: ★2</a>

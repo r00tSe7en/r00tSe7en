@@ -32,6 +32,7 @@ Repos:
 * <a href="https://github.com/VMsec/log4jScan_Modify">VMsec/log4jScan_Modify: ★3</a>
 * <a href="https://github.com/r00tSe7en/supplier">r00tSe7en/supplier: ★3</a>
 * <a href="https://github.com/r00tSe7en/msmap">r00tSe7en/msmap: ★3</a>
+* <a href="https://github.com/VMsec/7scanAI">VMsec/7scanAI: ★3</a>
 * <a href="https://github.com/r00tSe7en/php_bugs">r00tSe7en/php_bugs: ★2</a>
 * <a href="https://github.com/r00tSe7en/Windows-via-C-">r00tSe7en/Windows-via-C-: ★2</a>
 * <a href="https://github.com/r00tSe7en/SpoofWeb">r00tSe7en/SpoofWeb: ★2</a>
