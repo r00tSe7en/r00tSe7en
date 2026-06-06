@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/r00tSe7en/MyDict/commit/06d4c64f431a7022aabbe94c3d6df1a0809c7b31">06d4c64</a>
+- <a href="https://github.com/VMsec/7scanAI/commit/204fa9a256a49c91f37c0d4b853645332fd5178d">204fa9a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
