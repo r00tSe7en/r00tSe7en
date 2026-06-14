@@ -175,10 +175,10 @@
     "image": "https://my-badges.github.io/my-badges/star-gazer.png"
   },
   {
-    "id": "public-keys-1",
-    "tier": 1,
-    "desc": "I have one public key",
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
     "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   }
 ]
