@@ -13,7 +13,6 @@ Repos:
 * <a href="https://github.com/r00tSe7en/PythonCode">r00tSe7en/PythonCode: ★4</a>
 * <a href="https://github.com/r00tSe7en/common-regex">r00tSe7en/common-regex: ★4</a>
 * <a href="https://github.com/r00tSe7en/SSH-FingerPrint">r00tSe7en/SSH-FingerPrint: ★4</a>
-* <a href="https://github.com/VMsec/7scanAI">VMsec/7scanAI: ★4</a>
 * <a href="https://github.com/r00tSe7en/fake-AdobeFlashPlayer">r00tSe7en/fake-AdobeFlashPlayer: ★3</a>
 * <a href="https://github.com/VMsec/log4jScan_Modify">VMsec/log4jScan_Modify: ★3</a>
 * <a href="https://github.com/r00tSe7en/supplier">r00tSe7en/supplier: ★3</a>
