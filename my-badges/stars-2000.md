@@ -13,7 +13,7 @@ Repos:
 * <a href="https://github.com/r00tSe7en/cobweb">r00tSe7en/cobweb: ★92</a>
 * <a href="https://github.com/r00tSe7en/MyDict">r00tSe7en/MyDict: ★83</a>
 * <a href="https://github.com/VMsec/iisShortNameScaner">VMsec/iisShortNameScaner: ★75</a>
-* <a href="https://github.com/r00tSe7en/gitbook">r00tSe7en/gitbook: ★53</a>
+* <a href="https://github.com/r00tSe7en/gitbook">r00tSe7en/gitbook: ★54</a>
 * <a href="https://github.com/r00tSe7en/ShadowlessFeet">r00tSe7en/ShadowlessFeet: ★50</a>
 * <a href="https://github.com/r00tSe7en/URLPath">r00tSe7en/URLPath: ★46</a>
 * <a href="https://github.com/VMsec/PortBenderEXE">VMsec/PortBenderEXE: ★32</a>
