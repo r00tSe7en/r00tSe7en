@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/r00tSe7en/Mail-Probe">r00tSe7en/Mail-Probe: ★226</a>
 * <a href="https://github.com/r00tSe7en/Reverse-shell-cheatsheet">r00tSe7en/Reverse-shell-cheatsheet: ★95</a>
 * <a href="https://github.com/r00tSe7en/cobweb">r00tSe7en/cobweb: ★92</a>
-* <a href="https://github.com/r00tSe7en/MyDict">r00tSe7en/MyDict: ★83</a>
+* <a href="https://github.com/r00tSe7en/MyDict">r00tSe7en/MyDict: ★82</a>
 * <a href="https://github.com/VMsec/iisShortNameScaner">VMsec/iisShortNameScaner: ★75</a>
 * <a href="https://github.com/r00tSe7en/gitbook">r00tSe7en/gitbook: ★54</a>
 * <a href="https://github.com/r00tSe7en/ShadowlessFeet">r00tSe7en/ShadowlessFeet: ★50</a>
