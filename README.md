@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats-fast.vercel.app/api?username=r00tSe7en&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)
 
+<a href="https://github.com/VMsec/7scanAI">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=VMsec&theme=dracula&repo=7scanAI" />
+</a>
+
 <a href="https://github.com/r00tSe7en/get_AV">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=get_AV" />
 </a>
@@ -72,6 +76,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/r00tSe7en/BypassNeo-reGeorg">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=BypassNeo-reGeorg" />
 </a>
+
+
 
 <!-- my-badges start -->
 <a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
